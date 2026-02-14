@@ -34,7 +34,9 @@ Hardware Controller Mods for Native Instruments S8/S5/D2/Z1/Z2/X1.
 ](https://user-images.githubusercontent.com/757885/47607126-e6f19700-d9e9-11e8-95cd-b26d9b72ca34.jpeg
 )
 
+### How to build or customize your own QML mods
 
+[Traktor QML Customization Guide](https://github.com/lsmith77/traktor-kontrol-qml)
 
 ## Traktor Step Sequencer & Remix Sets (Pro 2/3)
 *Step Sequencer mode for the Remix Decks. The Step Sequencer can be controlled natively with the TRAKTOR KONTROL S8 / D2 / F1 controllers and can be mapped to any third-party MIDI controller.*
